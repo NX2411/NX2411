@@ -3,6 +3,7 @@
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
+<h5 align="center">Tech taht I've used at least once</h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
